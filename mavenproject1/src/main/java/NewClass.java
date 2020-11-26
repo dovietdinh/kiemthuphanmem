@@ -9,6 +9,6 @@
  * @author dovie
  */
 public class NewClass {
-    
+    System.print.out("hello");
 }
 hfxxjgrdckjhuyotftyfvl
